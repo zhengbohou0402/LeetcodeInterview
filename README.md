@@ -8,7 +8,7 @@
 
 [redis数据库-黑马程序员](https://www.bilibili.com/video/BV1cr4y1671t?spm_id_from=333.337.search-card.all.click)  
 
-[MySQL数据库-尚硅谷](https://www.bilibili.com/video/BV1iq4y1u7vj?spm_id_from=333.337.search-card.all.click&vd_source=9a56026b171351d7cf5ff22b462aa39e)太长太详细，没时间的可以看黑马程序员的  
+[MySQL数据库-尚硅谷](https://www.bilibili.com/video/BV1iq4y1u7vj?spm_id_from=333.337.search-card.all.click&vd_source=9a56026b171351d7cf5ff22b462aa39e) 太长太详细，没时间的可以看黑马程序员的  
 
 [MySQL数据库-黑马程序员](https://www.bilibili.com/video/BV1Kr4y1i7ru?spm_id_from=333.337.search-card.all.click&vd_source=9a56026b171351d7cf5ff22b462aa39e)  
 
