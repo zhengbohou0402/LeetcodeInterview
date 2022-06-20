@@ -1,5 +1,5 @@
 # LeetcodeInterview
-## 本仓库主要记录本人的面试学习 包括但不限于Leetcode算法，八股文之类的，技术指南与项目，会不定期更新。
+## 本仓库主要记录本人的面试学习 包括但不限于Leetcode算法，八股文，技术与项目，会不定期更新。
 [Leetcode教学-左程云老师](https://www.bilibili.com/video/BV13g41157hK?p=5&spm_id_from=pageDriver&vd_source=9a56026b171351d7cf5ff22b462aa39e)  
 
 [操作系统与实验-哈工大李治军老师](https://www.bilibili.com/video/BV1d4411v7u7?spm_id_from=333.337.search-card.all.click)  
