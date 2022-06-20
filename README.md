@@ -14,7 +14,7 @@
 
 [JavaWeb-黑马程序员](https://www.bilibili.com/video/BV1Qf4y1T7Hx?spm_id_from=333.337.search-card.all.click&vd_source=9a56026b171351d7cf5ff22b462aa39e) 属于大概讲述，包括一些JDBC MySQL Maven MyBatis等  
 
-[Java基础-李兴华老师](https://www.bilibili.com/video/BV1zJ411T7cN?p=32&vd_source=9a56026b171351d7cf5ff22b462aa39e) 跟着这本书学的 2018年的视频 建议看更早的 老师讲课挺有激情  
+[Java基础-李兴华老师](https://www.bilibili.com/video/BV1zJ411T7cN?p=32&vd_source=9a56026b171351d7cf5ff22b462aa39e) 跟着这本书学的 2018年的视频学习基础还是可以的 深入学习建议看最新发布的，JDK版本也有更新 老师讲课挺有激情  
 
 [docker容器](https://www.bilibili.com/video/BV1CJ411T7BK?spm_id_from=333.337.search-card.all.click&vd_source=9a56026b171351d7cf5ff22b462aa39e)  
 
